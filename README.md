@@ -1,9 +1,1 @@
----
-### 💻 Recent Activity 
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/SubmergedAmongUs/Submerged/issues/23) in [SubmergedAmongUs/Submerged](https://github.com/SubmergedAmongUs/Submerged)
-2. 🗣 Commented on [#23](https://github.com/SubmergedAmongUs/Submerged/issues/23) in [SubmergedAmongUs/Submerged](https://github.com/SubmergedAmongUs/Submerged)
-3. ❌ Closed PR [#348](https://github.com/Eisbison/TheOtherRoles/pull/348) in [Eisbison/TheOtherRoles](https://github.com/Eisbison/TheOtherRoles)
-4. 💪 Opened PR [#3](https://github.com/js6pak/AutoJoin/pull/3) in [js6pak/AutoJoin](https://github.com/js6pak/AutoJoin)
-5. 💪 Opened PR [#348](https://github.com/Eisbison/TheOtherRoles/pull/348) in [Eisbison/TheOtherRoles](https://github.com/Eisbison/TheOtherRoles)
-<!--END_SECTION:activity-->
+![Metrics](https://metrics.lecoq.io/simonkellly?template=classic&repositories.forks=true&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&notable=1&isocalendar=1&activity=1&base.indepth=false&isocalendar.duration=half-year&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&notable.from=all&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=Europe%2FDublin)
