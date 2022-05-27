@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/simonkellly?template=classic&repositories.forks=true&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&notable=1&isocalendar=1&activity=1&base.indepth=false&isocalendar.duration=half-year&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&notable.from=all&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=Europe%2FDublin)
+<!--START_SECTION:activity-->
