@@ -1,5 +1,3 @@
-![GitHub Stats](https://github-readme-eta.vercel.app/api?username=simonkellly&count_private=true&show_icons=true&theme=default&include_all_commits=true&rank_icon=github)
-
 ## Projects
 
 ### Game Development
@@ -23,6 +21,10 @@
 - **[Competitor Identifier](https://simonkellly.github.io/competitor-identifier/)** - Utility for identifying and looking up World Cube Association competitor IDs for specific competitions.
 
 - **[WCA Statistics Ireland](https://simonkellly.github.io/wca_statistics_ireland/)** - A fork of WCA Statistics showing records and statistics only considering Irish competitors.
+
+- **[Simultaneous Scrambling](https://simonkellly.github.io/simultaneous-scrambling/)** - WCA Scramble viewer for running multiple events at the same time
+
+- **[TypeComp](https://github.com/simonkellly/TypeComp)** - Typescript library for WCA competition activity assignments
 
 ### Anki & Studying
 
